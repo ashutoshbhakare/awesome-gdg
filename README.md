@@ -80,6 +80,8 @@ A curated list of awesome resources, projects, toolkits, and learning paths for 
 | [Ask Yogasutra](https://www.linkedin.com/in/yogeshkulkarni//Sarvadnya/tree/main/src/ask_yogasutra) | AI-powered knowledge system exploring the Yogasutra using RAG, Knowledge Graphs, and GraphRAG. | [Yogesh Kulkarni](https://www.linkedin.com/in/yogeshkulkarni/) |
 | [Sarvadnya](https://www.linkedin.com/in/yogeshkulkarni//Sarvadnya) | Collection of LLM-based custom chatbot and RAG proof-of-concepts across multiple document types. | [Yogesh Kulkarni](https://www.linkedin.com/in/yogeshkulkarni/) |
 | [Sadrushya](https://www.linkedin.com/in/yogeshkulkarni//Sadrushya) | Open-source initiative on Spatial Intelligence for understanding and generating the 3D physical world from 2D data. | [Yogesh Kulkarni](https://www.linkedin.com/in/yogeshkulkarni/) |
+| [Docker_Gamefied](https://github.com/ashutoshbhakare/docker_gamefied) | The Interactive Linux & Docker Task Game is a web-based learning platform designed for students who want to sharpen their Linux and Docker skills through fun, hands-on challenges. Built on Firebase Studio, this application transforms the learning experience into an interactive journey where users complete real-world system administration and containerization tasks — all inside a gamified interface. | [Ashutosh S. Bhakare](https://www.linkedin.com/in/abhakare/) |
+
 ---
 
 ## 📚 Learning Paths
