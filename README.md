@@ -66,6 +66,7 @@ A curated list of awesome resources, projects, toolkits, and learning paths for 
 | :--- | :--- | :--- | :--- |
 | **The Future of Web** | Exploring upcoming browser standards and WebAssembly capabilities. | [Name](https://x.com/) | DevFest 2025 |
 | **Android with Compose** | A deep dive into state management and animations in Modern Android. | [Name](https://x.com/) | Build with AI |
+|**K8sGPT** | Learn how to Deal with opensource tool using k8sgpt | [Ashutosh S. Bhakare] (https://www.youtube.com/watch?v=i1kwsARK7FM&t=6s) | AI|
 
 ---
 
